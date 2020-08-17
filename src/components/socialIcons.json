@@ -1,0 +1,32 @@
+[
+  {
+    "href": "https://www.facebook.com/cmorenovillodre",
+    "icon": ["fab", "fa-facebook-f"],
+    "alt": "Facebook",
+    "eventLabel": "facebook"
+  },
+  {
+    "href": "https://www.instagram.com/charlybrown_03/",
+    "icon": ["fab", "fa-instagram"],
+    "alt": "Instagram",
+    "eventLabel": "instagram"
+  },
+  {
+    "href": "https://github.com/charlybrown03/",
+    "icon": ["fab", "fa-github"],
+    "alt": "Github",
+    "eventLabel": "github"
+  },
+  {
+    "href": "https://twitter.com/charly_brown_03",
+    "icon": ["fab", "fa-twitter"],
+    "alt": "Twitter",
+    "eventLabel": "twitter"
+  },
+  {
+    "href": "https://www.linkedin.com/in/carlos-moreno-villodre-106936125/",
+    "icon": ["fab", "fa-linkedin-in"],
+    "alt": "LinkenIn",
+    "eventLabel": "linkedin"
+  }
+]
