@@ -12,8 +12,8 @@ import SocialMedia from '@/components/SocialMedia'
 export default {
   components: {
     PersonalData,
-    SocialMedia,
-  },
+    SocialMedia
+  }
 }
 </script>
 
